@@ -6,16 +6,16 @@
 Variables can store data of different types, and different types can do different things.
 Python has the following data types built-in by default, in these categories:
 
--Text Type:	````str````
+- Text Type:	````str````
 
--Numeric Types:	````int````, ````float````, ````complex````
+- Numeric Types:	````int````, ````float````, ````complex````
 
 -Sequence Types:	list, tuple, range
 
--Mapping Type:	dict
+- Mapping Type:	dict
 
--Set Types:	set, frozenset
+- Set Types:	set, frozenset
 
--Boolean Type:	bool
+- Boolean Type:	bool
 
--Binary Types:	bytes, bytearray, memoryview
+- Binary Types:	bytes, bytearray, memoryview
