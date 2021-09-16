@@ -58,18 +58,21 @@ x = memoryview(bytes(5))	| memoryview
 
 #### string
 ````print("Hello")
-print('Hello')````
+print('Hello')
+````
 
 #### Assign string to a variable
 ````a = "Hello"
-print(a)```
+print(a)
+```
 
 #### multiline string
 ````a = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
-print(a)````
+print(a)
+````
 
 
 
