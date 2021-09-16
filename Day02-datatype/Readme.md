@@ -54,7 +54,7 @@ x = bytes(5)	| bytes
 x = bytearray(5)	| bytearray	
 x = memoryview(bytes(5))	| memoryview
 
-## string
+# string Manipulation
 
 #### string
 ````print("Hello")
