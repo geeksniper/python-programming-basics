@@ -169,6 +169,8 @@ age = 36
 txt = "My name is John, and I am {}"
 print(txt.format(age))
 ````
+### string methods
+
 | method     | description |
 | --------| ---------------------------------------- |
 capitalize()	| Converts the first character to upper case
