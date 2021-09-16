@@ -7,8 +7,8 @@ Variables can store data of different types, and different types can do differen
 
 Python has the following data types built-in by default, in these categories:
 
--Text Type:	str
--Numeric Types:	int, float, complex
+-Text Type:	````str````
+-Numeric Types:	````int````, ````float````, ````complex````
 -Sequence Types:	list, tuple, range
 -Mapping Type:	dict
 -Set Types:	set, frozenset
