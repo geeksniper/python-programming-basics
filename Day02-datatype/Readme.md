@@ -62,7 +62,8 @@ print('Hello')
 ````
 
 #### Assign string to a variable
-````a = "Hello"
+````
+a = "Hello"
 print(a)
 ```
 
