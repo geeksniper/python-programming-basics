@@ -62,11 +62,13 @@ print("Hello")
 print('Hello')
 ````
 #### Assign string to a variable
+Assigning a string to a variable is done with the variable name followed by an equal sign and the string:
 ````bash
 a = "Hello"
 print(a)
 ````
 #### multiline string
+You can assign a multiline string to a variable by using three quotes:
 ````bash
 a = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
@@ -74,7 +76,31 @@ sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
 print(a)
 ````
-
+#### strings are arrays
+````bash
+a = "Hello, World!"
+print(a[1])
+````
+#### looping through a string
+````bash
+for x in "banana":
+  print(x)
+````
+#### string length
+````bash
+a = "Hello, World!"
+print(len(a))
+````
+#### check strings
+````bash
+txt = "The best things in life are free!"
+print("free" in txt)
+````
+#### check if not
+````bash
+txt = "The best things in life are free!"
+print("expensive" not in txt)
+````
 
 
 
