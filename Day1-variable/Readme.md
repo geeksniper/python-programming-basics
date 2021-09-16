@@ -118,7 +118,8 @@ myfunc()
 
 print("Python is " + x)
 ````
-
+### user input
+name = input('enter the username')
 
 
 
