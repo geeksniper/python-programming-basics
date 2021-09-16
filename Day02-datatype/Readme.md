@@ -17,7 +17,7 @@ Python has the following data types built-in by default, in these categories:
 In Python, the data type is set when you assign a value to a variable:
 
 | Example	| Data Type	|
-| ---------- | ----------- |
+| ----------------- | ----------- |
 | x = "Hello World"	| str	|
 | x = 20	| int	
 | x = 20.5 | float	
